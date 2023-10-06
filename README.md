@@ -1,5 +1,5 @@
 # HACK_THE_FEED_DICEY_TECH_SOLUTION
-This project finds insight from both textual and quantitative data to answer business problems.
+This project finds insight from both textual and quantitative data to answer business questions.
 
 ## Project Objectives
 
