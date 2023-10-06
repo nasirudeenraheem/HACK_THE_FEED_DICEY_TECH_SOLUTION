@@ -124,6 +124,8 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 
 ### Data Visualization
 
+**Note: Explore Full workflow in the Jupyter Notebook**
+
 #### Post Engagements Quality and Quantity
 
 <img width="980" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/bce41d03-14e9-4689-a9ef-b0975360124a">
@@ -137,6 +139,57 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 . Twitter has more Engagement Quality than Instagram, while Instagram has more Engagement Quantity Twitter.
 
 . LinkedIn is the least for both.
+
+
+### Correlation Analysis between Engagements and Impression
+
+#### Facebook
+
+<img width="919" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/2b38d4f8-89ab-40c3-a8b8-b22fa1ba7266">
+
+**Observation**
+
+* We observed a linear trend between Engagements and Impressions
+
+* They are partially positively correlated with close to 24%
+
+* They are statistically significant (p-value is less than 0.05)
+
+#### Instagram 
+
+<img width="919" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/e454055b-f66d-43f8-8780-e4ef39590b63">
+
+**Observation**
+
+* We observed a linear trend between Engagements and Impressions
+
+* They are partially positively correlated, with close to 5%
+
+* They are statistically significant (p-value is less than 0.05)
+
+#### Twitter
+
+<img width="919" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/8e272d5b-2e37-418f-85a1-acfa1ba50f65">
+
+**Observation**
+
+* We observed a linear trend between Engagements and Impressions
+
+* They are partially positively correlated, with close to 62%
+
+* They are statistically significant (p-value is less than 0.05)
+
+#### Linkedln
+
+<img width="919" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/2b667653-1fc6-4af8-b707-3f16f29f0631">
+
+**Observation**
+
+* We observed a linear trend between Engagements and Impressions
+
+* They are partially positively correlated, with close to 68%
+
+* They are statistically significant (p-value is less than 0.05)
 
 #### Top 20 words
 
