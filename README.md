@@ -13,7 +13,7 @@ Given the post data on each social media platform, the overall objectives are:
 
 •	**Automation** - This involves the implementation of a machine learning model, topic modeling, and sentiment analysis model to increase competitive advantage and efficiency. 
 
-## Business Insight
+## Business Insight (Key Findings)
 
 •	Maximum number of posts were recorded in 2022, across all platforms.
 
