@@ -40,7 +40,9 @@ Given the post data on each social media platform, the overall objectives are:
 •	Neutral Content tone drives more engagement on average on Facebook, Instagram, and LinkedIn, while Negative content tone drives more engagement on Twitter.
 
 •	Most posts are focused on Investment, Insurance, policy, and call-to-action advertisements.
+
 •	 Call to action advertisement’s post has a more engaging pattern than all other topics.
+
 •	Most frequently used words are tailored using Stanbic ibtc.
 
 •	A machine learning model with 85% accuracy should be used to classify the tone of a post before posting on the platforms.
