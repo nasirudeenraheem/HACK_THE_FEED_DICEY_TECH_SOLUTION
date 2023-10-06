@@ -1,5 +1,5 @@
 # HACK_THE_FEED_DICEY_TECH_SOLUTION
-This project finds insight from both textual and quantitative data to answer business questions.
+The project uses the power of data analytics, statistical analysis, and text analytics to answer business questions from the data.
 
 ## Project Objectives
 
