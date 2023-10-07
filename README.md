@@ -193,11 +193,11 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 
 #### Top 20 words
 
-<img width="698" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/d8f2024b-ea1d-46a0-bc52-5e63ccf157a8">
+![alt text](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/blob/main/word_c.png?raw=true)
 
 #### Sentiment Analysis Word Cloud
 
-<img width="987" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/331bb0bd-8051-4770-85f9-e94961549c4b">
+![alt text](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/blob/main/word.png?raw=true)
 
 #### Machine Learning Models Accuracy
 
@@ -205,5 +205,5 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 
 **Observation**
 
-* Extra Tree Classifier is the most accurate model, which will be able to classify our post sentiment correctly with 85% assurance.
+* Extra Tree Classifier is the most accurate model, and it will be able to classify our post sentiment correctly with 85% assurance.
 
