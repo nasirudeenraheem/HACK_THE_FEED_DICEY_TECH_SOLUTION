@@ -43,6 +43,8 @@ Given the post data on each social media platform, the overall objectives are:
 
 •	 Call to action advertisement’s post has a more engaging pattern than all other topics.
 
+* Celebration's season post drives more engagement in quality, after call-to-action advertistment.
+
 •	Most frequently used words are tailored using Stanbic ibtc.
 
 •	A machine learning model (Less Carbon Emission) that can be deployed with 85% accuracy should be used to classify the tone of a post before posting on the platforms.
