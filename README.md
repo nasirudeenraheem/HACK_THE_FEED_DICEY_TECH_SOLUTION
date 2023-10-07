@@ -45,7 +45,7 @@ Given the post data on each social media platform, the overall objectives are:
 
 •	Most frequently used words are tailored using Stanbic ibtc.
 
-•	A machine learning model with 85% accuracy should be used to classify the tone of a post before posting on the platforms.
+•	A machine learning model (Less Carbon Emission) that can be deployed with 85% accuracy should be used to classify the tone of a post before posting on the platforms.
 
 ## Recommendations
 
