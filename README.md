@@ -1,6 +1,20 @@
 # HACK_THE_FEED_DICEY_TECH_SOLUTION
 The project uses the power of data analytics, statistical analysis, and text analytics to answer business questions from the data.
 
+## Project Structure:
+
+### Notebooks
+
+1. Hack_Feed_Solution_1.ipynb
+   
+2. Hack_Feed_Solution_2.ipynb
+
+### Project Objectives, Business Insight, and Recommendations
+
+  1. Project_Solution_Report.pdf
+     
+  2. DiceyTech-Solution-submit.pdf
+
 ## Project Objectives
 
 Given the post data on each social media platform, the overall objectives are:
