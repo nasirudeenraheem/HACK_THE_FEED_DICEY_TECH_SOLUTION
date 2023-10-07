@@ -67,7 +67,7 @@ Given the post data on each social media platform, the overall objectives are:
 
 ## Solution Workflow Graphics
 
-![image](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/bbf7d168-ebd6-4688-9080-21ba982579e2)
+![alt text](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/blob/main/Analysis_Images/Slide1.png?raw=true)
 
 ### Note
 
@@ -145,7 +145,7 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 
 #### Facebook
 
-<img width="919" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/2b38d4f8-89ab-40c3-a8b8-b22fa1ba7266">
+![alt text](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/blob/main/Analysis_Images/FbEI.png?raw=true)
 
 **Observation**
 
@@ -157,7 +157,7 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 
 #### Instagram 
 
-<img width="919" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/e454055b-f66d-43f8-8780-e4ef39590b63">
+![alt text](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/blob/main/Analysis_Images/Ins.png?raw=true)
 
 **Observation**
 
@@ -169,7 +169,7 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 
 #### Twitter
 
-<img width="919" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/8e272d5b-2e37-418f-85a1-acfa1ba50f65">
+![alt text](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/blob/main/Analysis_Images/Twit.png?raw=true)
 
 **Observation**
 
@@ -181,7 +181,7 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 
 #### Linkedln
 
-<img width="919" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/2b667653-1fc6-4af8-b707-3f16f29f0631">
+![alt text](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/blob/main/Analysis_Images/Linkedln.png?raw=true)
 
 **Observation**
 
@@ -201,7 +201,7 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 
 #### Machine Learning Models Accuracy
 
-<img width="837" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/22692ee8-3824-4380-bcda-c8777d930457">
+![alt text](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/blob/main/Analysis_Images/ml.png?raw=true)
 
 **Observation**
 
