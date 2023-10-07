@@ -130,9 +130,7 @@ This is when the dataset is being cleaned to derive meaningful insight to aid th
 
 #### Post Engagements Quality and Quantity
 
-<img width="980" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/bce41d03-14e9-4689-a9ef-b0975360124a">
-
-<img width="980" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/d94d9457-8c4f-4b37-9aab-16610d95c9d9">
+![alt text](https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/blob/main/Analysis_Images/Network_analysis1.png?raw=true)
 
 **Observation**
 
