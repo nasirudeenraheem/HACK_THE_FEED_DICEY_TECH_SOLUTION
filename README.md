@@ -3,13 +3,13 @@ The project uses the power of data analytics, statistical analysis, and text ana
 
 ## Project Structure:
 
-### Notebooks
+#### Notebooks
 
 1. Hack_Feed_Solution_1.ipynb
    
 2. Hack_Feed_Solution_2.ipynb
 
-### Project Objectives, Business Insight, and Recommendations
+#### Project Objectives, Business Insight, and Recommendations
 
   1. Project_Solution_Report.pdf
      
