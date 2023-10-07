@@ -1,3 +1,6 @@
+<img width="919" alt="image" src="https://github.com/nasirudeenraheem/HACK_THE_FEED_DIEY_TECH_SOLUTION/assets/35523815/5fa24296-b89d-47f7-8443-15a98a3db9ed">
+
+
 # HACK_THE_FEED_DICEY_TECH_SOLUTION
 The project uses the power of data analytics, statistical analysis, and text analytics to answer business questions from the data.
 
